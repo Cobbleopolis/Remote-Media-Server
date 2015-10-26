@@ -5,12 +5,11 @@ $backgroundColor: #A0A0A0;
 //fonts
 $font0: Lucida Grande;
 $font1: Helvetica;
-$font2: Arial;
-$font3: sans-serif;
+$font2: Arial, sans-serif;
 
 body {
   padding: 50px;
-  font: 14px $font0, $font1, $font2, $font3;
+  //font: 14px $font0, $font1, $font2;
 }
 
 a {
